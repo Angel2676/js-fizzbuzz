@@ -7,9 +7,9 @@
 // 2. multipli di 3 scrivere Fizz
 // 3. multipli di 5 scrivere Buzz
 // 4. multipli di 3 e 5 scrivere FizzBuzz
-
+// CREATA VARIABILE
 var multiplo;
-
+// ASSEGNATO ALLA VARIABILE IL VALORE I
 for (var i = 1; i <= 100; i++) {
     multiplo = i;
 
